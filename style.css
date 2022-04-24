@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#featured-property p {
+  margin: auto;
+  width: 800px;
+  line-height: 1.5em;
+}
+
+figure img{
+  display: block;
+  margin: auto;
+}
+
+figcaption {
+  font-size: small;
+  width: fit-content;
+  margin: auto;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: silver;
+  color: black; 
+}
+
+#details div {
+  float: left;
+  width: 25%;
+  background: silver;
+  text-align: center;
+  margin-top: 20px;
+}
